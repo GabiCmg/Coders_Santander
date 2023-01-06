@@ -17,7 +17,7 @@
   
 Neste repositório deixo meus arquivos de estudo que realizei durante o curso de Engenharia de Dados da Santander - Let's Code.
 
-O curso foi realizado com o objetivo de aprender um pouco mais sobre a área de Dados. Por ser introdutório aprendi o básico sobre a linguagem Python, incluindo: Vátiáveis, Operadores, Estruturas (Sequenciais, Condicionais e Repetição), Listas e Tuplas, Dicionários, Funções, Manipulação de arquivos (.CSV), e API (.JSON).
+O curso foi realizado com o objetivo de aprender um pouco mais sobre a área de Dados. Por ser introdutório aprendi o básico sobre a linguagem Python, incluindo: Váriáveis, Operadores, Estruturas (Sequenciais, Condicionais e Repetição), Listas e Tuplas, Dicionários, Funções, Manipulação de arquivos (.CSV), e API (.JSON).
 
 ## ⬇️ Instalação
 
